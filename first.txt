@@ -1,2 +1,3 @@
 First file of GIT practice
 New line added to test automatic merging
+Stashing example
